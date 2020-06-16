@@ -34,7 +34,7 @@ var
 
 implementation
 
-uses Umodulodatos, Unit1;   //esta es una prueba 1
+uses Umodulodatos, Unit1;   //esta es una prueba
 
 {$R *.dfm}
 
